@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.CustomBrowser": null,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.fullReload": false,
+    "liveServer.settings.useLocalIp": false,
+    "remote.localPortHost": "localhost",
+    "livePreview.hostIP": "192.168.1.117"
+}
